@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CatP987.CatP98" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4900&color=FF326E&lines=Hello+World+👋+!;+I'm+Catarina+Pestana!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4900&color=FF326E&lines=Hello+World!+👋;+I'm+Catarina+Pestana!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Portugal 🇵🇹 🇵🇹 </h3>
@@ -66,10 +66,10 @@
 <br/><br/>
 <hr/>
 <br/>
+
+
 <details >
   <summary >
-    <div align="center">
-    
   <h2 style="margin: 0;">🔧 Tech Skills Details 🔧</h2>
 </summary>
 <div align="center" style="color: #00796b; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
