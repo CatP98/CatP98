@@ -71,5 +71,112 @@
 <br/>
 
 
+<div align="center" style="color: #00796b; background-color: rgba(255, 255, 255, 0.8); padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
 
-<br/>
+  <h2 style="color: #00796b;">🔧 Tech Skills</h2>
+
+  <h3>Frontend:</h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>HTML5 & CSS3</li>
+    <li>JavaScript (ES6+)</li>
+    <li>DOM Manipulation</li>
+    <li>Responsive Web Design (RWD)</li>
+    <li>Single Page Applications (SPA)</li>
+  </ul>
+
+  <h3>Backend:</h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>Java (Object-Oriented Programming)</li>
+    <li>Spring Framework</li>
+    <li>RESTful Web Services</li>
+    <li>Java Database Connectivity (JDBC)</li>
+    <li>DAO (Data Access Object)</li>
+  </ul>
+
+  <h3>Databases:</h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>SQL</li>
+    <li>Relational Database Management Systems (RDBMS)</li>
+    <li>Database Design and Normalization</li>
+  </ul>
+
+  <h3>Other Skills & Tools:</h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>Version Control (Git & GitHub)</li>
+    <li>Maven (Dependency Management)</li>
+    <li>AJAX & Fetch API (Asynchronous Programming)</li>
+    <li>Test-Driven Development (TDD)</li>
+    <li>Concurrency and Multithreading (Java)</li>
+    <li>MVC Architecture</li>
+  </ul>
+
+  <h2>⚙️ Tools & Frameworks:</h2>
+  <ul style="list-style-type: none; padding: 0;">
+    <li><strong>Frontend:</strong> HTML, CSS, JavaScript (ES6+)</li>
+    <li><strong>Backend:</strong> Java, Spring Framework</li>
+    <li><strong>Version Control:</strong> Git & GitHub</li>
+    <li><strong>Database Management:</strong> SQL, JDBC, PostgreSQL</li>
+    <li><strong>Build Tools:</strong> Maven</li>
+    <li><strong>Development Environments:</strong> Visual Studio Code, IntelliJ IDEA</li>
+    <li><strong>APIs:</strong> REST APIs, Fetch API, AJAX</li>
+  </ul>
+
+  <br/>
+</div>
+
+
+<div align="center" style="color: #00796b; background-color: rgba(255, 255, 255, 0.8); padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+
+  <details>
+    <summary style="cursor: pointer; font-size: 1.5em;">🔧 Tech Skills</summary>
+
+    <div>
+      <h3>Frontend:</h3>
+      <ul style="list-style-type: none; padding: 0;">
+        <li>HTML5 & CSS3</li>
+        <li>JavaScript (ES6+)</li>
+        <li>DOM Manipulation</li>
+        <li>Responsive Web Design (RWD)</li>
+        <li>Single Page Applications (SPA)</li>
+      </ul>
+
+      <h3>Backend:</h3>
+      <ul style="list-style-type: none; padding: 0;">
+        <li>Java (Object-Oriented Programming)</li>
+        <li>Spring Framework</li>
+        <li>RESTful Web Services</li>
+        <li>Java Database Connectivity (JDBC)</li>
+        <li>DAO (Data Access Object)</li>
+      </ul>
+
+      <h3>Databases:</h3>
+      <ul style="list-style-type: none; padding: 0;">
+        <li>SQL</li>
+        <li>Relational Database Management Systems (RDBMS)</li>
+        <li>Database Design and Normalization</li>
+      </ul>
+
+      <h3>Other Skills & Tools:</h3>
+      <ul style="list-style-type: none; padding: 0;">
+        <li>Version Control (Git & GitHub)</li>
+        <li>Maven (Dependency Management)</li>
+        <li>AJAX & Fetch API (Asynchronous Programming)</li>
+        <li>Test-Driven Development (TDD)</li>
+        <li>Concurrency and Multithreading (Java)</li>
+        <li>MVC Architecture</li>
+      </ul>
+
+      <h2>⚙️ Tools & Frameworks:</h2>
+      <ul style="list-style-type: none; padding: 0;">
+        <li><strong>Frontend:</strong> HTML, CSS, JavaScript (ES6+)</li>
+        <li><strong>Backend:</strong> Java, Spring Framework</li>
+        <li><strong>Version Control:</strong> Git & GitHub</li>
+        <li><strong>Database Management:</strong> SQL, JDBC, PostgreSQL</li>
+        <li><strong>Build Tools:</strong> Maven</li>
+        <li><strong>Development Environments:</strong> Visual Studio Code, IntelliJ IDEA</li>
+        <li><strong>APIs:</strong> REST APIs, Fetch API, AJAX</li>
+      </ul>
+    </div>
+  </details>
+
+</div>
