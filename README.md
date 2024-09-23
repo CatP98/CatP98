@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, Java, MySql... or anything [here](https://github.com/CatP98/CatP98/pulls)**
 
-⚡ Fun fact **The term "debugging" comes from a real bug—a moth found in the Harvard Mark II computer in 1947.**
+⚡ Fun fact **Bananas are berries, but srawberries aren't! 🤯🤯.**
 
  </div>
  
